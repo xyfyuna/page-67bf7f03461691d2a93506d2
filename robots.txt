@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://m.asu0dy3.cn/sitemap.xml
